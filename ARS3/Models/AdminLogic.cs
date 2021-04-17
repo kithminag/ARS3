@@ -107,7 +107,7 @@ namespace ARS1.Models
 
         [Display(Name = "Depature Time")]
         [StringLength(15)]
-        public DateTime DTime { get; set; }
+        public string DTime { get; set; }
 
         public int Planeid { get; set; }
         public virtual AeroPlaneInfo PlaneInfo { get; set; }
