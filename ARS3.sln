@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARS3", "ARS3\ARS3.csproj", "{7320A1C1-82FA-4C1D-850C-B68D55024C2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7320A1C1-82FA-4C1D-850C-B68D55024C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7320A1C1-82FA-4C1D-850C-B68D55024C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7320A1C1-82FA-4C1D-850C-B68D55024C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7320A1C1-82FA-4C1D-850C-B68D55024C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABFB019C-01B3-4279-80E1-42696BCE6338}
+	EndGlobalSection
+EndGlobal
